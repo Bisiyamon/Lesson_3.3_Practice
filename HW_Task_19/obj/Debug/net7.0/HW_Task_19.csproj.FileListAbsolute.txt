@@ -1,0 +1,15 @@
+/Users/macbook/Documents/Обучение/1.Разработчик/3.C#_Practice/3.3./HW_Task_19/obj/Debug/net7.0/HW_Task_19.csproj.AssemblyReference.cache
+/Users/macbook/Documents/Обучение/1.Разработчик/3.C#_Practice/3.3./HW_Task_19/obj/Debug/net7.0/HW_Task_19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/Обучение/1.Разработчик/3.C#_Practice/3.3./HW_Task_19/obj/Debug/net7.0/HW_Task_19.AssemblyInfoInputs.cache
+/Users/macbook/Documents/Обучение/1.Разработчик/3.C#_Practice/3.3./HW_Task_19/obj/Debug/net7.0/HW_Task_19.AssemblyInfo.cs
+/Users/macbook/Documents/Обучение/1.Разработчик/3.C#_Practice/3.3./HW_Task_19/obj/Debug/net7.0/HW_Task_19.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/Обучение/1.Разработчик/3.C#_Practice/3.3./HW_Task_19/bin/Debug/net7.0/HW_Task_19
+/Users/macbook/Documents/Обучение/1.Разработчик/3.C#_Practice/3.3./HW_Task_19/bin/Debug/net7.0/HW_Task_19.deps.json
+/Users/macbook/Documents/Обучение/1.Разработчик/3.C#_Practice/3.3./HW_Task_19/bin/Debug/net7.0/HW_Task_19.runtimeconfig.json
+/Users/macbook/Documents/Обучение/1.Разработчик/3.C#_Practice/3.3./HW_Task_19/bin/Debug/net7.0/HW_Task_19.dll
+/Users/macbook/Documents/Обучение/1.Разработчик/3.C#_Practice/3.3./HW_Task_19/bin/Debug/net7.0/HW_Task_19.pdb
+/Users/macbook/Documents/Обучение/1.Разработчик/3.C#_Practice/3.3./HW_Task_19/obj/Debug/net7.0/HW_Task_19.dll
+/Users/macbook/Documents/Обучение/1.Разработчик/3.C#_Practice/3.3./HW_Task_19/obj/Debug/net7.0/refint/HW_Task_19.dll
+/Users/macbook/Documents/Обучение/1.Разработчик/3.C#_Practice/3.3./HW_Task_19/obj/Debug/net7.0/HW_Task_19.pdb
+/Users/macbook/Documents/Обучение/1.Разработчик/3.C#_Practice/3.3./HW_Task_19/obj/Debug/net7.0/HW_Task_19.genruntimeconfig.cache
+/Users/macbook/Documents/Обучение/1.Разработчик/3.C#_Practice/3.3./HW_Task_19/obj/Debug/net7.0/ref/HW_Task_19.dll
