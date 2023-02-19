@@ -13,7 +13,6 @@ bool isNumeric = int.TryParse(num, out _); //логическая перемен
 //Формируем второй массив в виде реверса первого
 for(int index1 = 0; index1<number1.Length; index1++)
 {
-
     number2[index2] = number1[index1];
     index2=index2-1;
 }
