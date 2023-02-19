@@ -2,9 +2,6 @@
 
 double[] pointA = new double[3];
 double[] pointB = new double[3];
-//pointA[0] = Convert.ToDouble(Console.ReadLine());
-//pointA[1] = Convert.ToDouble(Console.ReadLine());
-//pointA[2] = Convert.ToDouble(Console.ReadLine());
 
 void InputCoordinates(double[] coordinates)
 {
